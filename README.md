@@ -2,7 +2,7 @@
 
 I'm a fullstack developer living in Seoul, Korea. I build amazing products. When it comes to backend and frontend, I'm little more confident at frontend.
 
-I'm using Svelte and Deno these days.
+I'm using Prisma and Svelte these days. 
 
 - 📫 How to reach me: `kimhomer dot dev at gmail dot com`
 
